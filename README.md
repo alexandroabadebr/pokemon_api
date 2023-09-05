@@ -1,2 +1,2 @@
 # Pokemon API
-## Consuming a Program Interface Application with PHP
+## Consuming a Program Interface Application (API) with PHP
